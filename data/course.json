@@ -4,22 +4,22 @@
         "name": "Full Stack Web Development",
         "img": "https://codingbytes.com/wp-content/uploads/2022/03/full-stack-web-development.jpg",
         "description": "তাহলে আপনার কি ওয়েব ডেভেলপার হবার স্বপ্ন অধরাই থেকে যাবে? চিন্তা নেই, আপনার কথা ভেবেই CourseNetwork নিয়ে এসেছে সম্পূর্ণ বাংলায় “Complete Career Path for Full Stack Web Development ” প্রোগ্রামটি। ৬ মাস-ব্যাপী এই ক্র্যাশ কোর্সে থাকছেন বাংলাদেশের অভিজ্ঞ ও প্রসিদ্ধ কিছু মেন্টর যারা একেবারে শূন্য থেকে পুরো ফ্রন্ট এন্ড ও ব্যাক এন্ড ওয়েব ডেভেলপমেন্টে দেবেন হাতেখড়ি। আপনারা শিখতে পারবেন HTML, CSS, Bootstrap, Python, Django, Javascript, React, SQL ইত্যাদির ব্যবহার।",
-        "Level": "Intermediate",
-        "Lecture": "500 Lectures",
-        "Class": "100 Live Classes",
-        "Feature": "Interview & Job Preparation,Exclusive Job Fair",
-        "Price": "৳ 5,000"
+        "level": "Intermediate",
+        "lecture": "500 lectures",
+        "classes": "100 Live classes",
+        "feature": "Interview & Job Preparation,Exclusive Job Fair",
+        "price": "৳ 5,000"
     },
     {
         "_id": "0282e0e58b",
         "name": "Complete Video Editing Course",
         "img": "https://www.venturelessons.com/wp-content/uploads/2020/04/video-editing.png",
         "description": "CourseNetwork আপনাকে দিচ্ছে একজন দক্ষ ও সার্টিফাইড ভিডিও এডিটর হওয়ার সুবর্ণ সুযোগ।বহুল আলোচিত কন্টেন্ট ক্রিয়েটর জুবায়ের তালুকদারের কাছ থেকে ভিডিও এডিটিং শিখে নিতে আজই রেজিস্ট্রেশন করে ফেলুন CourseNetwork আয়োজিত ‘Complete Course on Complete Video Editing’ এ।",
-        "Level": "Beginner",
-        "Lecture": "120 Lectures",
-        "Class": "40 Live Classes",
-        "Feature": "Lifetime access to the sessions",
-        "Price": "৳ 1,000"
+        "level": "Beginner",
+        "lecture": "120 lectures",
+        "classes": "40 Live classes",
+        "feature": "Lifetime access to the sessions",
+        "price": "৳ 1,000"
     },
     {
         "_id": "0282e0e58c",
@@ -27,43 +27,43 @@
         "name": "Course on Big Data and Machine Learning",
         "img": "https://www.h2kinfosys.com/blog/wp-content/uploads/2020/11/Machine-Learning-Data-Science-and-Deep-Learning-with-Python.jpg",
         "description": "আপনি যদি একজন ওয়েবসাইট কিংবা অ্যাপ ডেভেলপার হয়ে থাকেন, ডেটা সায়েন্স যদি আপনার আগ্রহের বিষয় হয়ে থাকে, সর্বোপরি আপনার প্রফেশনাল লাইফকে যদি আরো টেকনোলজিক্যালি অ্যাডভান্সড করতে চান, তবে আপনাদের চাহিদার ভিত্তিতেই আমরা CourseNetwork নিয়ে এসেছি “Course on Big Data & Machine Learning” কোর্স । বিগ ডাটা ও মেশিন লার্নিং বিষয়ে প্রাথমিক ধারণার পাশাপাশি কিভাবে বিগ ডাটা ও মেশিন লার্নিংয়ে ক্যারিয়ার এগিয়ে নিতে হবে সে বিষয়ে সম্পূর্ণ ধারণা পেয়ে যাবেন এই কোর্স থেকে।",
-        "Level": "Intermediate",
-        "Lecture": "230 Lectures",
-        "Class": "80 Live Classes",
-        "Feature": "Lifetime Access,Certificate",
-        "Price": "৳ 4,800"
+        "level": "Intermediate",
+        "lecture": "230 lectures",
+        "classes": "80 Live classes",
+        "feature": "Lifetime Access,Certificate",
+        "price": "৳ 4,800"
     },
     {
         "_id": "0282e0e58d",
         "name": "Android App Development Course",
         "img": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
         "description": "আমাদের দৈনন্দিন ব্যবহারের যে মোবাইল ফোন, তাকে এত কার্যকর আর প্রয়োজনীয় করে তুলেছে কোনটি? অবশ্যই তার অ্যাপ্লিকেশন সফটওয়্যারগুলো। আর এই ধরণের অ্যান্ড্রয়েড অ্যাপ তৈরি করার জন্য আপনাকে যে সফটওয়্যার কোম্পানির খুব উচ্চপদে থাকতে হবে, অনেক অনেক অভিজ্ঞতা থাকতে হবে, তেমনটি কিন্তু নয়। দরকার শুধু ভালো একটি সফটওয়্যার ডেভেলপ করার আগ্রহ, সৃজনশীল চিন্তা করার ক্ষমতা আর শেখার ইচ্ছা।",
-        "Level": "Intermediate",
-        "Lecture": "90 Lectures",
-        "Class": "Problem Solving Live Class",
-        "Feature": "Lifetime Access,Certificate",
-        "Price": "৳ 800"
+        "level": "Intermediate",
+        "lecture": "90 lectures",
+        "classes": "Problem Solving Live classes",
+        "feature": "Lifetime Access,Certificate",
+        "price": "৳ 800"
     },
     {
         "_id": "0282e0e58e",
         "name": "Complete Course on Microsoft Excel",
         "img": "https://assets.entrepreneur.com/content/3x2/2000/20191218181212-Ent-Excel.jpeg",
         "description": "মাইক্রোসফট এক্সেলের কাজ কি শুধু টেবিল বানিয়ে নাম্বার ইনপুট করা? একদমই না! এই সফটওয়্যার বিশ্বজুড়ে ব্যবহার করা হয় তথ্যকে সহজে ন্যাভিগেট করার জন্য। এক্সেল ডেটা ভিত্তিক কাজকে সহজ করে তোলে। ডেটা অ্যানালাইজ আর পাইলিং থেকে শুরু করে, যেকোনো চার্ট আর ফরমুলা বসাতেও এক্সেল অন্যতম। তাই আপনার সুবিধার্থে, CourseNetwork নিয়ে এসেছে পরিপূর্ণ কোর্স “Complete Course on Microsoft Excel.”",
-        "Level": "Intermediate",
-        "Lecture": "30 Lectures",
-        "Class": "Pre-recorded Sessions",
-        "Feature": "Lifetime Access,Certificate",
-        "Price": "৳ 600"
+        "level": "Intermediate",
+        "lecture": "30 lectures",
+        "classes": "Pre-recorded Sessions",
+        "feature": "Lifetime Access,Certificate",
+        "price": "৳ 600"
     },
     {
         "_id": "0282e0e58f",
         "name": "Python For Beginners",
         "img": "https://www.fossmint.com/wp-content/uploads/2019/02/Udemy-Python-Learning-Courses-for-Beginners.png",
         "description": "পাইথন সবচেয়ে সহজ প্রোগ্রামিং ল্যাংগুয়েজগুলোর মধ্যে অন্যতম। বর্তমানে সবচেয়ে পপুলার ল্যাংগুয়েজগুলোর মধ্যে এটি একটি।মেশিন লার্নিং, ডিপ লার্নিং, ইমেজ প্রসেসিং, ডেটা এনালাইসিস সহ এমন কিছু নেই যা পাইথন দিয়ে করা যায় না। তাই আপনি যদি পাইথন দিয়ে নিজের প্রোগ্রামিং ক্যারিয়ার শুরু করতে চান, আপনার জন্য “Python for Beginners” কোর্সটি নিয়ে এসেছেন তানভীর হোসেন মুনিম, যিনি বুয়েটের সিএসই( CSE) বিভাগের শিক্ষার্থী । আপনি এর আগে কখনো প্রোগ্রামিং যদি নাও করে থাকেন, এই কোর্সে আপনাকে একদম বেসিক লেভেল থেকে পাইথন প্রোগ্রামিং শেখানো হবে। এই কোর্সটি করার পর আপনি যেকোন এডভান্সড টপিক যেমন – মেশিন লার্নিং, ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং ইত্যাদি বিনা দ্বিধায় শুরু করতে পারবেন।",
-        "Level": "Beginner",
-        "Lecture": "49 Lectures",
-        "Class": "Pre-recorded classes",
-        "Feature": "Lifetime Access,Project",
-        "Price": "৳ 1,600"
+        "level": "Beginner",
+        "lecture": "49 lectures",
+        "classes": "Pre-recorded classes",
+        "feature": "Lifetime Access,Project",
+        "price": "৳ 1,600"
     }
 ]
