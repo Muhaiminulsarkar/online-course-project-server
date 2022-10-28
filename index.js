@@ -16,6 +16,7 @@ app.get("/courses-categories", (req, res) => {
     res.send(categories);
 });
 
+
 app.get("/course-details", (req, res) => {
     res.send(details);
 });
@@ -27,5 +28,5 @@ app.get("/course-details/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log("Dragon News Server running on port is running", port);
+    console.log("Dragon News Server running on port was running", port);
 });
